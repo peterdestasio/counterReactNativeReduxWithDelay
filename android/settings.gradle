@@ -1,0 +1,3 @@
+rootProject.name = 'Counter2Redux'
+
+include ':app'
